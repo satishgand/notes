@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Reviewed open issues, added labels
 - Tidied up project structure
+
+## 2026-06-13
+- Improved error handling in edge cases
